@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Samantha Webb portfolio</title>
+  <desc id="desc">An open editorial portfolio card in cream, forest green, and lime, with a stack of offset square frames.</desc>
+  <rect width="1200" height="630" fill="#f4f2ec"/>
+  <rect width="24" height="630" fill="#143a32"/>
+  <path d="M75 90H1125M75 545H1125" stroke="#bac7ba" stroke-width="2"/>
+  <text x="75" y="136" fill="#3f5d4d" font-family="Menlo, Consolas, monospace" font-size="19" letter-spacing="4">INDEPENDENT PORTFOLIO</text>
+  <g fill="#143a32" font-family="Helvetica, Arial, sans-serif" font-size="101" font-weight="700" letter-spacing="-4.8">
+    <text x="70" y="286">Samantha</text>
+    <text x="70" y="398">Webb</text>
+  </g>
+  <rect x="75" y="430" width="118" height="9" fill="#a9ca76"/>
+  <text x="75" y="502" fill="#365a4d" font-family="Helvetica, Arial, sans-serif" font-size="30">AI evaluation &amp; technical operations</text>
+  <rect x="807" y="96" width="287" height="415" fill="none" stroke="#143a32" stroke-width="3"/>
+  <rect x="852" y="140" width="287" height="415" fill="#ddf28a"/>
+  <rect x="894" y="183" width="203" height="203" fill="#143a32"/>
+  <rect x="924" y="213" width="143" height="143" fill="#f4f2ec"/>
+  <rect x="953" y="242" width="85" height="85" fill="#143a32"/>
+  <path d="M894 426H1097M894 450H1042" stroke="#143a32" stroke-width="4"/>
+</svg>
